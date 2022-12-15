@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Java with Chandrakant"
+		},
+		{
+			"path": "../../Node"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML Prepbytes"
+	}
+}
